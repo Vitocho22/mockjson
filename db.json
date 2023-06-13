@@ -1,0 +1,11 @@
+{
+"prestamo":[
+{"idPrestamo":1, "libro":"Mi libro", "usuario":"Agustin", "inicio":"12/11/2023","fin":"22/12/2023"},
+{"idPrestamo":2, "libro":"HTML desde 0", "usuario":"Agustin", "inicio":"12/11/2023","fin":"22/12/2023"},
+{"idPrestamo":3, "libro":"PHP desde 0", "usuario":"Agustin", "inicio":"12/11/2023","fin":"22/12/2023"},
+{"idPrestamo":4, "libro":"C# desde 0", "usuario":"Ximena", "inicio":"12/11/2023","fin":"22/12/2023"},
+{"idPrestamo":5, "libro":"Java desde 0", "usuario":"Jennifer jimenes", "inicio":"12/11/2023","fin":"22/12/2023"},
+{"idPrestamo":6, "libro":"JQuery desde 0", "usuario":"Sebastian Ramos", "inicio":"12/11/2023","fin":"22/12/2023"},
+{"idPrestamo":7, "libro":"La biblia de MySQL", "usuario":"Sebastian Ramos", "inicio":"12/11/2023","fin":"22/12/2023"}
+]
+}
